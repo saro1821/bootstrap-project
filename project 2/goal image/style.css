@@ -1,0 +1,65 @@
+.container{
+    height: 500px;
+    width: 1000px;
+    border: solid 3px black;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+h1,h2{
+    text-align: center;
+}
+.box{
+    height: 350px;
+    width: 900px;
+    border: solid 3px black;
+    margin-left: 50px;
+    position: relative;
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    border: solid 3px black;
+    margin-top: 60px;
+    margin-left: 75px;
+    
+
+}
+.box3{
+    height: 150px;
+    width: 100px;
+    border: solid 3px black;
+    margin-top:20px;
+    margin-left:50px;
+    
+    border-radius: 50px;
+   
+
+}
+p{
+    text-align: center;
+    margin-top: 50px;
+}
+.box4{
+    height: 400px; 
+    width: 400px;
+    margin-left: 400px;
+    margin-top: 40px;
+    position: absolute;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
